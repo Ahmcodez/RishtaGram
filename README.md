@@ -133,7 +133,7 @@ The application follows a modular architecture that separates authentication, na
 
 ![Discover Screen](Screenshots/HomeScreen.jpeg)
 
-![Profile Screen](screenshots/ProfileSwipe.jpeg)
+![Profile Screen](Screenshots/ProfileSwipe.jpeg)
 
 ---
 
@@ -143,6 +143,12 @@ The application follows a modular architecture that separates authentication, na
 ![Chat Screen](Screenshots/chats2.jpeg)
 
 ---
+### Match Notification
+
+![Match Screen](Screenshots/MatchNotification.jpeg)
+
+---
+
 
 
 ### Settings
