@@ -162,12 +162,7 @@ The application follows a modular architecture that separates authentication, na
 
 ---
 
-## 🎥 Demo Video
 
-Watch the application in action.
-
-
----
 
 ## 🚀 Highlights
 
