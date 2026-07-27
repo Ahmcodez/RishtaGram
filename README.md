@@ -108,31 +108,51 @@ The application follows a modular architecture that separates authentication, na
 
 > Replace these images with your actual application screenshots.
 
+### SplashScreen
+
+![Splash Screen](Screenshots/Splash1.jpeg)
+
+![Splash Screen](screenshots/Splash2.jpeg)
+
+---
 ### Authentication
 
-![Login Screen](screenshots/login.png)
+![Login Screen](Screenshots/SignIn.jpeg)
 
-![Signup Screen](screenshots/signup.png)
+![Signup Screen](screenshots/signup.jpeg)
+
+---
+### Complete Profile
+
+![Complete Profile Screen](Screenshots/completeYourProfile.jpeg)
+![Complete Profile Screen](Screenshots/completeProfile2.jpeg)
 
 ---
 
 ### Home & Discover
 
-![Discover Screen](screenshots/discover.png)
+![Discover Screen](Screenshots/HomeScreen.jpeg)
 
-![Profile Screen](screenshots/profile.png)
+![Profile Screen](screenshots/ProfileSwipe.jpeg)
 
 ---
 
 ### Chat
 
-![Chat Screen](screenshots/chat.png)
+![Chat Screen](Screenshots/chats.jpeg)
+![Chat Screen](Screenshots/chats2.jpeg)
 
 ---
 
+
 ### Settings
 
-![Settings Screen](screenshots/settings.png)
+![Settings Screen](Screenshots/Settings.jpeg)
+
+---
+### Edit Your Profile
+
+![EditProfile Screen](Screenshots/editProfile.jpeg)
 
 ---
 
